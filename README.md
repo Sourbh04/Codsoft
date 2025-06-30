@@ -53,11 +53,6 @@ A command-line ATM simulation with:
 
 ---
 
-### 🔧 Week 4: *(Coming Soon...)*
-> The Week 4 project will be uploaded soon. Stay tuned!
-
----
-
 ## 💻 How to Run the Projects
 
 > Prerequisite: Java must be installed on your system.
